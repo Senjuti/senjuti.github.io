@@ -1,0 +1,155 @@
+body {
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #7E878F;
+    background-color: #FFFFFF;
+    font-weight: 300;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}
+
+h1 {
+	text-transform: uppercase;
+    color: #2C3D4F;
+    font-weight: 100;
+    letter-spacing: 5px;
+    line-height: 60px;
+    font-size: 60px;
+}
+
+.section-title h2 {
+    text-transform: uppercase;
+    color: #2C3D4F;
+    font-weight: 100;
+    letter-spacing: 5px;
+    line-height: 60px;
+    font-size: 60px;
+}
+
+.section-title img {
+	float: left;
+}
+
+#resume h3 {
+	font-weight: bold;
+}
+
+#resume-details span {
+	margin-right: 50px;
+}
+
+h4 {
+    display: block;
+    -webkit-margin-before: 1.33em;
+    -webkit-margin-after: 1.33em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+
+#resume h4 {
+	margin-bottom: 0px;
+	font-size: 20px;
+}
+
+#about a:hover {
+	text-decoration: none;
+	color: #6E4E8C;
+}
+#resume h4 a:hover {
+	text-decoration: none;
+	color: #6E4E8C;
+}
+
+#about p {
+	text-align: left;
+}
+
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+
+footer {
+	font-size: 10px;
+	margin-bottom: 30px;
+	margin-left: 30px;
+}
+
+a {
+	color: #9D6FC8;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#title.section {
+	background-color: #C2B5CF;
+	padding: 0 0 0 0;
+}
+
+#resume.section {
+    background-color: #F0F2F7;
+}
+
+.section {
+    padding-bottom: 100px ;
+    position: relative;
+}
+
+.about-extra {
+	margin-top: -30px;
+}
+
+.about-extra-icon ul li {
+    display: inline-block;
+    float: left;
+    margin: 0 36px 10px 0;
+    width: 134px;
+    height: 134px;
+    text-align: -webkit-match-parent;
+}
+
+.section-title {
+    margin-top: 178px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.border {
+    background-color: #9D6FC8;
+    display: block;
+    margin: 40px auto;
+    width: 60px;
+    height: 2px;
+}
+
+.about-info .info-title {
+    float: left;
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+.lg-button {
+    border-color: rgba(0, 0, 0, 0.1);
+    color: #FFFFFF;
+    font-weight: bold;
+    background-color: #9D6FC8;
+    font-size: 16px;
+    padding: 15px 86px;
+    margin-top: 20px;
+}
+
+.glyphicon-download {
+	float: left;
+	margin-top: -5px;
+	margin-right: 12px;
+	margin-left: -12px;
+	font-size:1.5em;
+}
